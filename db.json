@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter@123",
+      "id": 1
+    },
+    {
+      "name": "japneet",
+      "email": "fhh@gmail.com",
+      "password": "sethi.singh",
+      "id": 2
+    },
+    {
+      "name": "sharan ",
+      "email": "sharanpalsethi@gmail.com",
+      "password": "Sethi.singh",
+      "id": 22,
+      "home": "Hii"
+    },
+    {
+      "name": "user",
+      "email": "user@email.com",
+      "password": "Test@123",
+      "id": 23
+    },
+    {
+      "name": "japneet",
+      "email": "sethisharanpalsingh@gmail.com",
+      "password": "sethi.singh",
+      "id": 24
+    },
+    {
+      "name": "japneet",
+      "email": "sethisharanpalsingh@gmail.com",
+      "password": "sethi.singh",
+      "id": 25
+    },
+    {
+      "name": "japneet",
+      "email": "sethisharanpalsingh@gmail.com",
+      "password": "sethi.singh",
+      "id": 26
+    },
+    {
+      "name": "jappii",
+      "email": "sethisharanpalsingh@gmail.com",
+      "password": "sethi.singh",
+      "id": 27
+    },
+    {
+      "name": "japneet",
+      "email": "sethisharanpalsingh@gmail.com",
+      "password": "SETHI",
+      "id": 28
+    },
+    {
+      "name": "japneet",
+      "email": "jappi@gmail.con",
+      "password": "SETHI.SINGH",
+      "id": 29
+    },
+    {
+      "name": "japneet",
+      "email": "jay.japneet@rubicotech.in",
+      "password": "sethi.singh",
+      "id": 30
+    },
+    {
+      "name": "kjsj",
+      "email": "cdn",
+      "password": "dsnn",
+      "id": 31
+    },
+    {
+      "name": "ryan ",
+      "email": "ryan@gmail.com",
+      "password": "setho.singh",
+      "id": 32
+    },
+    {
+      "name": "bill",
+      "email": "bill@gmail.com",
+      "password": "sethi.singh",
+      "id": 33
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "sharan seti",
+      "address": "",
+      "contact": "1111",
+      "id": 1
+    },
+    {
+      "name": "Jappi",
+      "address": "Saharanpur",
+      "contact": "27822w12345",
+      "id": 2
+    },
+    {
+      "id": 1,
+      "name": "Happii",
+      "address": "Amritsar",
+      "contact": 76577
+    },
+    {
+      "name": "Jappi",
+      "address": "Amritsar",
+      "contact": "827873849",
+      "id": 3
+    },
+    {
+      "name": "Japneet Singh ",
+      "address": "sethisharanpalsingh@gmail.com",
+      "contact": "983451863",
+      "id": 7
+    },
+    {
+      "name": "jassi",
+      "address": "jassi@gmail.com",
+      "contact": "Haridwar",
+      "id": 8
+    },
+    {
+      "name": "jassi",
+      "address": "jassi@gmail.com",
+      "contact": "Haridwar",
+      "id": 9
+    },
+    {
+      "name": "Ryan Vedansh",
+      "address": "ryan@gmail.com",
+      "contact": "45678904",
+      "id": 10
+    },
+    {
+      "name": "ryan ",
+      "address": "ryan@gmail.com",
+      "contact": "Haridwar",
+      "id": 11
+    },
+    {
+      "name": "Sandeep",
+      "address": "sandeep@gmail.com",
+      "contact": "Haridwar",
+      "id": 12
+    }
+  ]
+}
